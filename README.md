@@ -46,6 +46,7 @@ python-estudos/
 ├── poo/
 └── projetos-simples/
 ```
+
 Cada pasta contém códigos comentados, priorizando clareza e legibilidade.
 
 ## 🛠️ Tecnologias Utilizadas
@@ -59,6 +60,7 @@ Sistema operacional: Linux / Windows
 ## 🚀 Como Executar os Códigos
 
 Certifique-se de ter o Python instalado:
+
 ```text
 python --version
 
