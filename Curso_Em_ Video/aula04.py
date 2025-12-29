@@ -24,4 +24,5 @@ print("==== DEZAFIO 03 ====")
 
 numero1 = int(input("Digite o primeiro numero: "))
 numero2 = int(input("Digite o segundo numero: "))
-print(numero1 + numero2)
+# print(numero1 + numero2)
+print("A soma entre {} e {} é {}".format(numero1, numero2, (numero1 + numero2)))
