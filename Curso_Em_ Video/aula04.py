@@ -1,24 +1,24 @@
-# print("Hello, World!");
-# print(7+4);
+print("Hello, World!")
+print(7 + 4)
 
-# nome = input("Qual é o seu nome: ");
-# idade = input("Qual é a sua idade: ");
-# peso = input("Qual é o seu peso: ");
+nome = input("Qual é o seu nome: ")
+idade = input("Qual é a sua idade: ")
+peso = input("Qual é o seu peso: ")
 
-# print("Certo: ", nome, " Sua idade é: ", idade," e seu peso é: ", peso);
+print("Certo: ", nome, " Sua idade é: ", idade, " e seu peso é: ", peso)
 
-# print("==== DEZAFIO 01 ====")
-# nome = input("Qual é o seu nome? ")
+print("==== DEZAFIO 01 ====")
+nome = input("Qual é o seu nome? ")
 
-# print("Olar ", nome, "! É um prazer te conhcer!")
+print("Olar ", nome, "! É um prazer te conhcer!")
 
-# print("==== DEZAFIO 02 ====")
+print("==== DEZAFIO 02 ====")
 
-# dia = input("Dia = ")
-# mes = input("Mes = ")
-# ano = input("Ano = ")
+dia = input("Dia = ")
+mes = input("Mes = ")
+ano = input("Ano = ")
 
-# print(dia, "/", mes, "/", ano)
+print(dia, "/", mes, "/", ano)
 
 print("==== DEZAFIO 03 ====")
 
