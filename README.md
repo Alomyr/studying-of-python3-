@@ -45,10 +45,10 @@ python-estudos/
 ├── estruturas-de-dados/
 ├── poo/
 └── projetos-simples/
-
+```
 Cada pasta contém códigos comentados, priorizando clareza e legibilidade.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Python 3
 
@@ -56,10 +56,10 @@ Editor de código: VS Code
 
 Sistema operacional: Linux / Windows
 
-🚀 Como Executar os Códigos
+## 🚀 Como Executar os Códigos
 
 Certifique-se de ter o Python instalado:
-
+```text
 python --version
 
 
@@ -71,14 +71,15 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 Execute qualquer arquivo .py:
 
 python nome_do_arquivo.py
+```
 
-📈 Em Evolução
+## 📈 Em Evolução
 
 Este repositório está em constante atualização conforme novos conteúdos são estudados e novos desafios são resolvidos.
 
 Sugestões, feedbacks e boas práticas são sempre bem-vindos.
 
-👨‍💻 Autor
+### 👨‍💻 Autor
 
 Matheus Vinícius Silva Freire de Castro
 Estudante da UFRN-TI => BCC
