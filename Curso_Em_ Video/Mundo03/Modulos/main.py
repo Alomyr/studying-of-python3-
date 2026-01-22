@@ -1,4 +1,5 @@
-import util
+from Modulos import util
+
 
 numero = int(input("Digite um numero: "))
 
