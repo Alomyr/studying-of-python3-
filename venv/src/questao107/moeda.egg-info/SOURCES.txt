@@ -1,0 +1,9 @@
+setup.py
+moeda/__init__.py
+moeda/moeda.py
+moeda.egg-info/PKG-INFO
+moeda.egg-info/SOURCES.txt
+moeda.egg-info/dependency_links.txt
+moeda.egg-info/top_level.txt
+moeda/utils/__init__.py
+moeda/utils/util.py
