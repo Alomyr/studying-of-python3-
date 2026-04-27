@@ -24,4 +24,3 @@ def duplicado(lista):
 
 lista = [[1, 1, 2], [3, 3, 2], [1, 2, 3]]
 print(duplicado(lista))
-#
